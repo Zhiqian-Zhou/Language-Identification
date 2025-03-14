@@ -1,0 +1,54 @@
+,Effectiveness,Readability&Efficiency,Linguistic Resources,Analysis of results,,,,,,,
+,20%,15%,15%,50%,,lambda-analysis,error-analysis,charsets-b,b-is-justified,ml,
+53324691,,,,,0,,,,,,
+23929348,9,9,10,9,9.15,TRUE,PARTIAL,TRUE,TRUE,TRUE,"Good job. Errors could be analyzed better, but not much more."
+53869922,8,9,10,9,8.95,FALSE,TRUE,FALSE,TRUE,FALSE,"You have been quite imaginative I should say. There are downs to your job such as the lack of hyperparameter optimization, but error analysis is good."
+48194971,9,10,9,10,9.65,TRUE,TRUE,TRUE,TRUE,FALSE,Great job. Complete and described appropriately.
+45129852,9,8,8,9,8.7,TRUE,PARTIAL,TRUE,PARTIAL,FALSE,Good work. Lamba analysis is mentioned but now shown. The representation of results could  be better. No analysis for B is provided.
+21163174,9,10,8,10,9.5,TRUE,TRUE,FALSE,TRUE,TRUE,Flawless. The only thing I could have missed is a more in-depth analysis of B (accents).
+26912428,7,7,7,7,7,FALSE,FALSE,FALSE,PARTIAL,FALSE,"There are some issues in this assignment. For starters, you mention experiments for lambda but you do not show results or validation strategy. There is a lot of duplicated code. You estimate B based on the total number of n-grams in training, but do not justify this choice. "
+16106624,7,7,7,7,7,FALSE,FALSE,FALSE,PARTIAL,FALSE,"There are some issues in this assignment. For starters, you mention experiments for lambda but you do not show results or validation strategy. There is a lot of duplicated code. You estimate B based on the total number of n-grams in training, but do not justify this choice. "
+23821037,7,7,7,7,7,FALSE,FALSE,FALSE,FALSE,FALSE,"OK. However, I don't see the point in using the multiplicative model. B and lambda are not optimised."
+49259044,7,7,7,7,7,FALSE,FALSE,FALSE,FALSE,FALSE,"OK. However, I don't see the point in using the multiplicative model. B and lambda are not optimised."
+48184280,6.5,6.5,5,7,6.525,FALSE,PARTIAL,FALSE,FALSE,FALSE,"There is room for improvement, especially for a group of 3. First, there is no analysis of B nor lambda. Second, B is simply wrong in the case of words. The code is misleading - for instance, the function for word bigrams is called word_trigrams_finder - and it is wrong in the report as well."
+25626219,10,10,10,10,10,TRUE,TRUE,TRUE,TRUE,FALSE,Great job. Complete and described appropriately.
+47974847,9,9,10,9,9.15,TRUE,PARTIAL,TRUE,TRUE,TRUE,"Good job. Errors could be analyzed better, but not much more."
+41011239,6.5,6.5,5,7,6.525,FALSE,PARTIAL,FALSE,FALSE,FALSE,"There is room for improvement, especially for a group of 3. First, there is no analysis of B nor lambda. Second, B is simply wrong in the case of words. The code is misleading - for instance, the function for word bigrams is called word_trigrams_finder - and it is wrong in the report as well."
+48264027,9,10,8,10,9.5,TRUE,TRUE,FALSE,TRUE,TRUE,Flawless. The only thing I could have missed is a more in-depth analysis of B (accents).
+43571655,9,9,10,9,9.15,TRUE,FALSE,TRUE,TRUE,FALSE,Good work. Error analysis could have been better. Missing typing and docstrings.
+48039079,9,9,9,9,9,TRUE,FALSE,TRUE,TRUE,FALSE,Good work. The code is a little messy and it has some repeated code. Final results are below expected.
+11597279,8.5,6,9,8,7.95,TRUE,PARTIAL,TRUE,TRUE,FALSE,Good work. Code could be better (unnecesary conditions and inefficient).
+7238671,8.5,6,9,8,7.95,TRUE,PARTIAL,TRUE,TRUE,FALSE,Good work. Code could be better (unnecesary conditions and inefficient).
+8737960,5,10,10,7,7.5,TRUE,FALSE,TRUE,TRUE,FALSE,"Well docummented. However, you've done hyperparameter optimization without a validation set. Be careful!"
+23891856,8,9,10,9,8.95,FALSE,TRUE,FALSE,TRUE,FALSE,"You have been quite imaginative I should say. There are downs to your job such as the lack of hyperparameter optimization, but error analysis is good."
+46426195,9,9,10,9,9.15,TRUE,FALSE,TRUE,TRUE,FALSE,Good work. Error analysis could have been better. Missing typing and docstrings.
+41603787,7,9,7,9,8.3,FALSE,PARTIAL,FALSE,FALSE,FALSE,"Good job. However, I was expecting hyperparameter optimization"
+47593605,10,8,10,9,9.2,TRUE,PARTIAL,TRUE,TRUE,FALSE,"Good job. The notebook and code could be commented better, but nothing else."
+24416131,7,7,8,7,7.15,FALSE,PARTIAL,TRUE,PARTIAL,FALSE,"OK, but the analysis could have been deeper. No hyperparameter optimization is done. Plus, the code is not well encapsulated in functions."
+49296102,9.5,10,7,9,8.95,TRUE,PARTIAL,FALSE,PARTIAL,FALSE,Code is really good quality. You've been using a different version of Lidstone but that is fine. Good job overall.
+20560139,10,10,10,10,10,TRUE,TRUE,PARTIAL,TRUE,TRUE,Great job
+49243695,7,9,7,9,8.3,FALSE,PARTIAL,FALSE,FALSE,FALSE,"Good job. However, I was expecting hyperparameter optimization"
+45174240,10,10,10,10,10,TRUE,TRUE,TRUE,TRUE,FALSE,Excellent job. Flawless.
+49261456,6,6,6,7,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,You could have done a better job. The analysis is poor and the confusion matrix is not a confusion matrix. Code is messy and no hyperparameters have been optimized.
+47407429,10,10,10,10,10,TRUE,TRUE,PARTIAL,TRUE,TRUE,Great job
+48038176,9,9,10,9,9.15,TRUE,PARTIAL,TRUE,TRUE,FALSE,"Good job. Quite complete and good analysis. Error analysis could have been better, but good overall."
+48042165,9,10,9,10,9.65,TRUE,TRUE,TRUE,TRUE,FALSE,Great job. Complete and described appropriately.
+47323719,7,7,8,7,7.15,FALSE,PARTIAL,TRUE,PARTIAL,FALSE,"OK, but the analysis could have been deeper. No hyperparameter optimization is done. Plus, the code is not well encapsulated in functions."
+46479162,6,6,6,7,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,You could have done a better job. The analysis is poor and the confusion matrix is not a confusion matrix. Code is messy and no hyperparameters have been optimized.
+43571073,9.5,7,10,9,8.95,TRUE,PARTIAL,TRUE,TRUE,FALSE,"The way in which you compute B is not justified. I commented that in class. You then ""fix"" it in extra. Code is messy."
+49643316,9,8,8,9,8.7,TRUE,PARTIAL,TRUE,PARTIAL,FALSE,Good work. Lamba analysis is mentioned but now shown. The representation of results could  be better. No analysis for B is provided.
+47245330,6.5,6.5,5,7,6.525,FALSE,PARTIAL,FALSE,FALSE,FALSE,"There is room for improvement, especially for a group of 3. First, there is no analysis of B nor lambda. Second, B is simply wrong in the case of words. The code is misleading - for instance, the function for word bigrams is called word_trigrams_finder - and it is wrong in the report as well."
+49873997,9,7,8,9,8.55,TRUE,PARTIAL,FALSE,TRUE,FALSE,"The analysis has been done at the level of phrases and not documents. This has degraded the evaluation, but I will set no penalty for this. Code is a little messy, however. Plus, the choices for B are weird."
+23844150,10,10,10,10,10,TRUE,TRUE,TRUE,TRUE,FALSE,Great job. Complete and described appropriately.
+49535815,6,9,6,7,6.95,FALSE,FALSE,PARTIAL,FALSE,FALSE,"Only Laplace is used, which makes it simpler and parameter free. Oversimplifyied."
+24416147,4,7,5,4,4.6,FALSE,FALSE,FALSE,PARTIAL,FALSE,Code is wrong. Smoothing is only applied to trigrams in training. Analysis is poor and the code doesn't work.
+48033446,4,7,5,4,4.6,FALSE,FALSE,FALSE,PARTIAL,FALSE,Code is wrong. Smoothing is only applied to trigrams in training. Analysis is poor and the code doesn't work.
+21773371,9,7,8,9,8.55,TRUE,PARTIAL,FALSE,TRUE,FALSE,"The analysis has been done at the level of phrases and not documents. This has degraded the evaluation, but I will set no penalty for this. Code is a little messy, however. Plus, the choices for B are weird."
+21756290,10,10,10,10,10,TRUE,TRUE,TRUE,TRUE,FALSE,Good job.
+47599937,10,8,10,9,9.2,TRUE,PARTIAL,TRUE,TRUE,FALSE,"Good job. The notebook and code could be commented better, but nothing else."
+54574822,9,9,9,9,9,TRUE,FALSE,TRUE,TRUE,FALSE,Good work. The code is a little messy and it has some repeated code. Final results are below expected.
+45182567,9,9,10,9,9.15,TRUE,PARTIAL,TRUE,TRUE,FALSE,"Good job. Quite complete and good analysis. Error analysis could have been better, but good overall."
+47325967,9.5,10,7,9,8.95,TRUE,PARTIAL,FALSE,PARTIAL,FALSE,Code is really good quality. You've been using a different version of Lidstone but that is fine. Good job overall.
+23843881,9.5,7,10,9,8.95,TRUE,PARTIAL,TRUE,TRUE,FALSE,"The way in which you compute B is not justified. I commented that in class. You then ""fix"" it in extra. Code is messy."
+47139721,10,10,10,10,10,TRUE,TRUE,TRUE,TRUE,FALSE,Excellent job. Flawless.
+5690959,5,10,10,7,7.5,TRUE,FALSE,TRUE,TRUE,FALSE,"Well docummented. However, you've done hyperparameter optimization without a validation set. Be careful!"
